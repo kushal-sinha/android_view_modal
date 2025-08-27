@@ -29,11 +29,6 @@ LiveData
 
 View Binding
 
-📂 Project Structure
-├── MainActivity.java        # Hosts the UI and observes LiveData
-├── MainViewModel.java       # Stores and manages UI data
-├── activity_main.xml        # UI layout file
-└── ... (bindings auto-generated)
 
 🔑 How It Works
 
